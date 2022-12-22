@@ -116,9 +116,7 @@ If the process runs without any errors, the following message will be displayed:
 
 This will allow you to see the changes applied in real time, across the account and workspace you are working in.
 
-## Dependencies
 
-No aditional dependencies.
 
 ##Contributors
 1. Sergio Yepes Gualteros
